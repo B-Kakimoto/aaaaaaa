@@ -1,6 +1,5 @@
-@use "./foundation/base" as *;
-@use "./foundation/variables" as *;
-@use "./foundation/mixins" as *;
+@use "./base" as *;
+@use "./variables" as *;
 // ========================================
 // Mixins
 // - breakpoint（レスポンシブ）
